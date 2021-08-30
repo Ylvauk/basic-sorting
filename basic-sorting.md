@@ -209,7 +209,7 @@ let removed = arr.splice(3, 1);
 
     [4]. So if we wanted to access the number 4, we should do:
 
-    let removed = arr.splice(3, 1)[0]
+    let removed = arr.splice(3, 1)[0];
     
 </details>
 
