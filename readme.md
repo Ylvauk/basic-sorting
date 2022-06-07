@@ -124,7 +124,7 @@ ___
 
 ## Mechanics: How to Swap Elements in an Array
 
-One of the things that new developers struggle with is swapping elements in an array. Let's say you are given a an array of ``[1, 2, 3]``, and you want to swap ``1`` and   ``2``, but you ***couldn't*** explicit swap using code like this:
+One of the things that new developers struggle with is swapping elements in an array. Let's say you are given a an array of ``[1, 2, 3]``, and you want to swap ``1`` and   ``2``, but you ***couldn't*** hard-code the swap like this:
 
 ```js
 const arr = [1, 2, 3];
